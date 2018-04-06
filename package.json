@@ -1,7 +1,6 @@
 {
-  "name": "test",
+  "name": "gordian",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "http://github/415ec080/heroku.git"
+  },
+  "description": ""
 }
